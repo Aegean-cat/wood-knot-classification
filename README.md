@@ -6,7 +6,7 @@ The model classifies wood surfaces into **three classes**:
 - **Live Knot**
 - **Dead Knot**
 
-This project is developed as part of **TME 6015 – Deep Learning Applications**, following all rubric requirements for code clarity, documentation, and reproducibility.
+This project is developed as part of **TME 6015 – Machine Learning Applications**, following all rubric requirements for code clarity, documentation, and reproducibility.
 
 ---
 
